@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - [ios-envi-sensor](https://github.com/dehre/ios-envi-sensor) - iOS app acting as a BLE GATT client for the Envi Sensor.
 - [sht21](https://github.com/dehre/sht21) - ESP32 Library for the SHT21 temperature and humidity sensor.
 - [you-dl](https://github.com/dehre/you-dl) - An easy to use YouTube downloader written in Rust.
+- [pikestyle](https://github.com/dehre/pikestyle) - A collection of useful data structures and algorithms in C.
 - [c-project-template](https://github.com/dehre/c-project-template) - Template C project to started with C and tooling on MacOS.
 - [self-balancing-robot](https://github.com/dehre/self-balancing-robot) - Self-balancing robot created for my high-school final exam.
 - [sns-to-sqs](https://github.com/dehre/sns-to-sqs) - Guide for publishing to an SNS topic and consuming from an SQS queue using the `aws-sdk` in Typescript.

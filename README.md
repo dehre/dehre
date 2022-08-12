@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - [sht21](https://github.com/dehre/sht21) - ESP32 Library for the SHT21 temperature and humidity sensor.
 - [you-dl](https://github.com/dehre/you-dl) - An easy to use YouTube downloader written in Rust.
 - [pikestyle](https://github.com/dehre/pikestyle) - A collection of useful data structures and algorithms in C.
+- [misc-c](https://github.com/dehre/misc-c) - A place to put tiny snippets of C code that don't deserve a repository on their own.
 - [c-project-template](https://github.com/dehre/c-project-template) - Template C project to started with C and tooling on MacOS.
 - [self-balancing-robot](https://github.com/dehre/self-balancing-robot) - Self-balancing robot created for my high-school final exam.
 - [sns-to-sqs](https://github.com/dehre/sns-to-sqs) - Guide for publishing to an SNS topic and consuming from an SQS queue using the `aws-sdk` in Typescript.

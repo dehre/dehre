@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - [esp32-envi-sensor](https://github.com/dehre/esp32-envi-sensor) - The Envi Sensor, a digital thermometer and hygrometer powered by the ESP32 board.
 - [ios-envi-sensor](https://github.com/dehre/ios-envi-sensor) - iOS app acting as a BLE GATT client for the Envi Sensor.
 - [sht21](https://github.com/dehre/sht21) - ESP32 Library for the SHT21 temperature and humidity sensor.
+- [beaglebone-stuff](https://github.com/dehre/beaglebone-stuff) - A collection of tiny embedded-linux projects for the BeagleBone Black
 - [you-dl](https://github.com/dehre/you-dl) - An easy to use YouTube downloader written in Rust.
 - [pikestyle](https://github.com/dehre/pikestyle) - A collection of useful data structures and algorithms in C.
 - [misc-c](https://github.com/dehre/misc-c) - A place to put tiny snippets of C code that don't deserve a repository on their own.

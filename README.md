@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - [bbb-sht21-fat-client-qt-app](https://github.com/dehre/bbb-sht21-fat-client-qt-app) ~ *C++* ~ Desktop Qt application for the `bbb-sht21-multithreaded-http-server` sensor web.
 - [pikestyle](https://github.com/dehre/pikestyle) ~ *C* ~ A collection of useful data structures and algorithms.
 - [misc-c](https://github.com/dehre/misc-c) ~ *C* ~ A place to put tiny snippets of C code that don't deserve a repository on their own.
-- [self-balancing-robot](https://github.com/dehre/self-balancing-robot) ~ *Basic* ~ Self-balancing robot created for my high-school final exam.
+- [self-balancing-robot](https://github.com/dehre/self-balancing-robot) ~ *Basic* ~ Self-balancing robot created for my school's final exam.
 
 #### Web
 

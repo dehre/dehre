@@ -61,14 +61,3 @@ Here are some ideas to get you started:
 - [c-project-template](https://github.com/dehre/c-project-template) ~ *C* ~ Template C project to started with C and tooling on MacOS.
   
 - [you-dl](https://github.com/dehre/you-dl) ~ *Rust* ~ An easy to use YouTube downloader written in Rust.
-  
-
-#### Repositories I contributed to
-
-- [MaJerle/stm32-cube-cmake-vscode](https://github.com/MaJerle/stm32-cube-cmake-vscode) - Tutorial explaining how to develop and debug STM32 applications in VSCode using CMake, Ninja, and the GCC compiler.
-  
-- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) ~ *C++* ~ Fixed wrong [C++ answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/5306).
-  
-- [lexus2k/ssd1306](https://github.com/dehre/ssd1306/tree/stm32f3-i2c) ~ *C* ~ Fork of the ssd1306 driver library that supports STM32F3 MCUs over I2C.
-  
-  - [stm32f3-ssd1306-display](https://github.com/dehre/stm32f3-ssd1306-display) ~ *C* ~ Repo showing how to use the forked ssd1306 library to drive an lcd display.
